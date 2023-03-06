@@ -1,4 +1,5 @@
-from requests.auth import HTTPBasicAuth
+# To run files you have to do `python3 "directory/file.py`
+# In this case run `python3 "rmapi/api_request.py"`
 import requests
 
 
